@@ -26,3 +26,11 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" height="50" >
 
 ```
+```
+:writing_hand:	Latest blog articles 
+<!-- BLOG-POST-LIST:START --> 
+
+<!-- BLOG-POST-LIST:END -->
+
+[... more articles](https://dev.to/hssanbzlm)
+```
