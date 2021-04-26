@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 ```
 :writing_hand:[My JS blog](https://dev.to/hssanbzlm)
 ```
-```
-```
+
 ```
 🥇 My github stats
 
