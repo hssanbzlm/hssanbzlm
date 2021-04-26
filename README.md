@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ***
 
-🧰 Toolbox
+🧰 **Toolbox**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50" ><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript logo" width="50" height="50" ><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="angular logo" width="50" height="50" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="50" height="50" >
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ***
-:writing_hand:[My JS blog](https://dev.to/hssanbzlm)
+:writing_hand:[**My JS blog**](https://dev.to/hssanbzlm)
 ***
-🥇 My github stats
+🥇 **My github stats**
 
 ![Hssan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hssanbzlm&show_icons=true&theme=radical&hide=contribs)
 ***
