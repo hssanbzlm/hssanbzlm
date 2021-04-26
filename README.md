@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
-```
+***
 
 🧰 Toolbox
 
@@ -26,13 +25,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" height="50" ><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="npm logo" width="50" height="50" >
 
 
-```
-```
+***
 :writing_hand:[My JS blog](https://dev.to/hssanbzlm)
-```
-```
+***
 🥇 My github stats
 
 ![Hssan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hssanbzlm&show_icons=true&theme=radical&hide=contribs)
-```
-```
+***
