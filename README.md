@@ -27,10 +27,13 @@ Here are some ideas to get you started:
 
 ```
 ```
-:writing_hand:	Latest blog articles 
-<!-- BLOG-POST-LIST:START --> 
+:writing_hand:[My JS blog](https://dev.to/hssanbzlm)
+```
+```
+```
+```
+🥇 My github stats
 
-<!-- BLOG-POST-LIST:END -->
-
-[... more articles](https://dev.to/hssanbzlm)
+![Hssan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hssanbzlm&show_icons=true&theme=radical&hide=contribs)
+```
 ```
