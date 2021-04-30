@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 
 
 ***
-:writing_hand:[**My JS blog**](https://dev.to/hssanbzlm)
+:writing_hand:[**My JS blog**](https://dev.to/hssanbzlm) 
+<a href="https://dev.to/hssanbzlm">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hssan Bouzlima's DEV Community Profile" height="30" width="30">
+</a>
 ***
 🥇 **My github stats**
 
