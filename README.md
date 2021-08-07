@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: hassanbouzlima@gmail.com
+
 -->
 ***
-- 📫 How to reach me: hassanbouzlima@gmail.com
 
 
 🧰 **Toolbox**
