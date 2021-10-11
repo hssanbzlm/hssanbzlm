@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Hssan Bouzlima, javascript developer
+### Hi there 👋, I'm Hssan Bouzlima, Front end focused developer | Javascript Enthusiast
 
 <!--
 **hssanbzlm/hssanbzlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
