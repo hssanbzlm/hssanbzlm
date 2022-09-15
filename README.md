@@ -23,6 +23,7 @@ Here are some ideas to get you started:
  
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript logo" width="50" height="50" ><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="angular logo" width="50" height="50" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="50" height="50" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs logo" width="50" height="50" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs logo" width="60" height="60" ><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="60" height="60"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql logo" width="60" height="60" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mysql logo" width="60" height="60" >
