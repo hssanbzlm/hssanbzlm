@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 - 📫 How to reach me: hassanbouzlima@gmail.com
-- 🗞️ Blog:[  dev.to/hssanbzlm  ](dev.to/hssanbzlm)
+- 🗞️ Blog:      <a href="https://dev.to/hssanbzlm" target="_blank">dev.to/hssanbzlm</a>
 
 💻**Toolbox**
  
