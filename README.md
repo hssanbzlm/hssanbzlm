@@ -1,4 +1,4 @@
-# I'm Hssan Bouzlima 👋 Front-end developer
+# I'm Hssan Bouzlima 👋 Web developer
 I am a motivated and enthusiastic Front-End Developer with a passion for creating user-friendly and visually appealing websites and applications.
 
 <!--
