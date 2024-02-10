@@ -1,6 +1,4 @@
 # I'm Hssan Bouzlima 👋 Web developer
-I am a motivated and enthusiastic Front-End Developer with a passion for creating user-friendly and visually appealing websites and applications.
-
 <!--
 **hssanbzlm/hssanbzlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
