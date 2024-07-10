@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass logo" width="50" height="50" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" height="50" ><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="npm logo" width="50" height="50" >
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest logo" width="50" height="50" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest logo" width="50" height="50" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
 
 
 
