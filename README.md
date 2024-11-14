@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 
 
-🥇 **My github stats**
-
-![Hssan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hssanbzlm&show_icons=true&theme=radical&hide=contribs)
+<a href="https://github.com/hssanbzlm">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hssanbzlm&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&custom_title=My%20GitHub%20Stats" alt="My stats"/>
+</a>
