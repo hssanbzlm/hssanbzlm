@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/hssanbzlm">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hssanbzlm&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&custom_title=My%20GitHub%20Stats" alt="My stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hssanbzlm&include_all_commits=true&show_icons=true&rank_icon=percentile&custom_title=My%20GitHub%20Stats" alt="My stats"/>
 </a>
