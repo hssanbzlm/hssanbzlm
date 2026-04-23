@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="40" style="display:inline-block; margin:6px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="display:inline-block; margin:6px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" style="display:inline-block; margin:6px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" style="display:inline-block; margin:6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" style="display:inline-block; margin:6px;">
 </p>
 
 
