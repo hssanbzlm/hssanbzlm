@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" style="display:inline-block; margin:6px;">
 </p>
 
----
 
 ## 📊 GitHub Stats
 
